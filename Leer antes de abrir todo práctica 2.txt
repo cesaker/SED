@@ -1,0 +1,2 @@
+Para que pueda funcionar el ejercicio 2.2 tenemos que tirar del codigo de la practica 1 o el código que hay en la carpeta 
+que pone c1segmentos, ya que el archivo que hay en esta carpeta es el que está el código mal del ejercicio 2.1.
